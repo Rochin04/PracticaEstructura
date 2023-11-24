@@ -1,0 +1,14 @@
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\bin\Debug\net6.0\PracticaEstructuraListasSimple.exe
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\bin\Debug\net6.0\PracticaEstructuraListasSimple.deps.json
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\bin\Debug\net6.0\PracticaEstructuraListasSimple.runtimeconfig.json
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\bin\Debug\net6.0\PracticaEstructuraListasSimple.dll
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\bin\Debug\net6.0\PracticaEstructuraListasSimple.pdb
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.AssemblyInfoInputs.cache
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.AssemblyInfo.cs
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.csproj.CoreCompileInputs.cache
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.dll
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\refint\PracticaEstructuraListasSimple.dll
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.pdb
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\PracticaEstructuraListasSimple.genruntimeconfig.cache
+C:\Users\emiro\source\repos\PracticaEstructuraListasSimple\obj\Debug\net6.0\ref\PracticaEstructuraListasSimple.dll
